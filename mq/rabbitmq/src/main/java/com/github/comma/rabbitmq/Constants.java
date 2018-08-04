@@ -8,4 +8,8 @@ package com.github.comma.rabbitmq;
 public interface Constants {
 
     String QUEUE_NAME = "TEST_QUEUE";
+
+    String HOST_NAME = "localhost";
+
+    Integer PORT = 5672 ;
 }
